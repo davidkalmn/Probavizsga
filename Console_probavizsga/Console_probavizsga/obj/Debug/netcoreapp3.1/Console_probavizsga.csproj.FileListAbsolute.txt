@@ -1,0 +1,15 @@
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\bin\Debug\netcoreapp3.1\Console_probavizsga.exe
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\bin\Debug\netcoreapp3.1\kektura.csv
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\bin\Debug\netcoreapp3.1\Console_probavizsga.deps.json
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\bin\Debug\netcoreapp3.1\Console_probavizsga.runtimeconfig.json
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\bin\Debug\netcoreapp3.1\Console_probavizsga.runtimeconfig.dev.json
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\bin\Debug\netcoreapp3.1\Console_probavizsga.dll
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\bin\Debug\netcoreapp3.1\Console_probavizsga.pdb
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.csproj.AssemblyReference.cache
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.AssemblyInfoInputs.cache
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.AssemblyInfo.cs
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.csproj.CoreCompileInputs.cache
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.dll
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.pdb
+Z:\Próbavizsga\Console_probavizsga\Console_probavizsga\obj\Debug\netcoreapp3.1\Console_probavizsga.genruntimeconfig.cache
