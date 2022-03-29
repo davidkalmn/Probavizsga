@@ -1,0 +1,26 @@
+1. Projekt létrehozása
+    laravel new firstproject
+        vagy
+    composer create-project laravel/laravel teszt
+2. Felesleges dolgok törlése
+    migration mappa tartalmának törlése
+    /config/sanctum.php törlése
+    /app/Models/User.php törlése
+    /database/factories/UserFactory.php törlése
+    composer remove laravel/sanctum
+    php artisan clear
+3. Adatbázis létrehozása
+    üres adatbázis létrehozása phpmyadminban
+    php artisan make:model Tanulok -m
+    tábla nevéből s levétele
+    timestamp kikommentelése
+    modellben protected és public mező létrehozása
+    migrationben megfelelő mezők létrehozása a table be
+    php artisan migrate - ha készvagyunk a táblákkal
+4. Táblák közti kapcsolat befejezése
+    public function hasmany és belongsto a modellekben
+5. Kontroller megcsinálása
+    php artisan make:controller TanuloController -m Tanulok --api
+6. Routeolás létrehozása
+    /routes/api.php sanctum kikommentelése
+    /routes/api.php Route::get létrehozása (kontroller use-olása)
