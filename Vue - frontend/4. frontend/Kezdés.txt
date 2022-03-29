@@ -1,4 +1,6 @@
 Frontend megoldás - Vue
 1. npm i -g @vue/cli
 2. vue create hahu-app
-3. 
+3. npm i bootstrap
+    main.js import 'bootstrap/dist/css/bootstrap'
+4. npm i --save vue-router
