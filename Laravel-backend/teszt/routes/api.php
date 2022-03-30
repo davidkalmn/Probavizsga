@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\LeadasokController;
 use App\Http\Controllers\TanuloController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -21,5 +22,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/minden', [TanuloController::class, 'minden']);
 // php artisan route:list
+Route::get('/egytanuloleadasa/{id}', [TanuloController::class, 'egyTanuloLeadasa']);
 
-Route::apiResource('tanulok', TanuloController::class);
+Route::get('/egynap/{idopont}', [LeadasokController::class, 'egyNap']);
+Route::get('/egynaptobbmennyiseg/{idopont}/{mennyiseg}/{irany}', [LeadasokController::class, 'egyNapTobbMennyiseg']);
+
+//Route::apiResource('tanulok', TanuloController::class);

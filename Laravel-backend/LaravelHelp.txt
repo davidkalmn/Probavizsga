@@ -24,3 +24,10 @@
 6. Routeolás létrehozása
     /routes/api.php sanctum kikommentelése
     /routes/api.php Route::get létrehozása (kontroller use-olása)
+7. Kontrollerben getminden hibakezelés
+8. Új get létrehozása
+    api.php új útvonal
+    kontrollerben hozzá új függvény
+    új get request tesztelése
+9. Új kontroller létrehozása
+    php artisan make:controller LeadasokController

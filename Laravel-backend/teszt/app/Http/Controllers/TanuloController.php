@@ -3,13 +3,45 @@
 namespace App\Http\Controllers;
 
 use App\Models\Tanulok;
+use Exception;
 use Illuminate\Http\Request;
 
 class TanuloController extends Controller
 {
 
     public function minden() {
-        return Tanulok::with('leadasok')->get();
+        try {
+            $minden = Tanulok::with('leadasok')->get();
+        if ($minden->isEmpty()) {
+            return response()->json(
+                array("Message" => "No data!"),
+                404
+            );
+        }
+        else {
+            return $minden;
+        }
+        } catch(Exception $e) {
+            return response()->json(
+                array("Message" => "Database error!"),
+                400
+            );
+        }
+    }
+
+    public function egyTanuloLeadasa($id) {
+        $tanulo = Tanulok::with('leadasok')
+                    ->where('tanulok.tazon', '=', $id)
+                    ->get();
+        if ($tanulo->isEmpty()) {
+            return response()->json(
+                array("Message" => "No data!"),
+                404
+            );
+        }
+        else {
+            return $tanulo;
+        }
     }
     /**
      * Display a listing of the resource.
@@ -18,7 +50,7 @@ class TanuloController extends Controller
      */
     public function index()
     {
-        //
+        return Tanulok::all();
     }
 
     /**
