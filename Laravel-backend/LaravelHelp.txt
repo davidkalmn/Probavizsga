@@ -31,3 +31,4 @@
     új get request tesztelése
 9. Új kontroller létrehozása
     php artisan make:controller LeadasokController
+    új get és új függvény létrehozása hozzá

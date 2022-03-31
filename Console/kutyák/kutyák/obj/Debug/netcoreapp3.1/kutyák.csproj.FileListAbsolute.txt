@@ -1,0 +1,17 @@
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\kutyák.exe
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\KutyaFajtak.csv
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\Kutyak.csv
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\KutyaNevek.csv
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\kutyák.deps.json
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\kutyák.runtimeconfig.json
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\kutyák.runtimeconfig.dev.json
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\kutyák.dll
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\bin\Debug\netcoreapp3.1\kutyák.pdb
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.csproj.AssemblyReference.cache
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.AssemblyInfoInputs.cache
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.AssemblyInfo.cs
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.csproj.CoreCompileInputs.cache
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.dll
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.pdb
+Z:\Probavizsga\Probavizsga\Console\kutyák\kutyák\obj\Debug\netcoreapp3.1\kutyák.genruntimeconfig.cache
