@@ -1,0 +1,16 @@
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\autok.exe
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\autok.csv
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\igenyek.csv
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\autok.deps.json
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\autok.runtimeconfig.json
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\autok.runtimeconfig.dev.json
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\autok.dll
+Z:\Probavizsga\Probavizsga\Console\autok\autok\bin\Debug\netcoreapp3.1\autok.pdb
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.csproj.AssemblyReference.cache
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.AssemblyInfoInputs.cache
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.AssemblyInfo.cs
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.csproj.CoreCompileInputs.cache
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.dll
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.pdb
+Z:\Probavizsga\Probavizsga\Console\autok\autok\obj\Debug\netcoreapp3.1\autok.genruntimeconfig.cache
