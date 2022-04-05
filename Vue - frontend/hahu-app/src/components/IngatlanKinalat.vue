@@ -15,7 +15,7 @@ export default {
       columns: [
         {
           label: 'Kategória',
-          field: 'kategoria',
+          field: 'kategoriaNev',
         },
         {
           label: 'Leírás',
@@ -42,7 +42,7 @@ export default {
         
       ],
     };
-  }
+  },
   created(){
   Axios
     .get("/api/ingatlan")
@@ -50,5 +50,5 @@ export default {
         this.rows = response.data;
     })
     .catch(err => console.log(err))
-    }
+    }}
 </script>
