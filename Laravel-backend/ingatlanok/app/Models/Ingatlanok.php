@@ -10,5 +10,9 @@ class Ingatlanok extends Model
     use HasFactory;
 
     protected $table = "ingatlanok";
-    public $timestamp = false;
+    public $timestamps = false;
+
+    public function kategoria() {
+        return $this->belongsTo(Kategoriak::class, 'kategoria', 'id');
+    }
 }

@@ -10,7 +10,9 @@ class Kategoriak extends Model
     use HasFactory;
 
     protected $table = "kategoriak";
-    public $timestamp = false;
+    public $timestamps = false;
 
-    
+    public function ingatlan() {
+        return $this->hasMany(Ingatlanok::class, 'ingatlanok', 'kategoria');
+    }
 }

@@ -17,6 +17,9 @@
     modellben protected és public mező létrehozása
     migrationben megfelelő mezők létrehozása a table be
     php artisan migrate - ha készvagyunk a táblákkal
+3.1 Táblák feltöltése fixen és json ből
+    /database/seeder/ tábla feltöltése adatokkal
+        fix tábla feltöltése fix adatokkal
 4. Táblák közti kapcsolat befejezése
     public function hasmany és belongsto a modellekben
 5. Kontroller megcsinálása
