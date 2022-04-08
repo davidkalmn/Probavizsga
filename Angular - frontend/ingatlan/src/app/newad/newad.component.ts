@@ -16,7 +16,7 @@ export class NewadComponent implements OnInit {
 
 
   constructor(private service : IngatlanService) {
-    this.ingatlan.hirdetesDatuma = "2002.06.26";
+    this.ingatlan.hirdetesDatuma = new Date().toISOString().substring(0,10);
     this.service.getKategoriak().subscribe((kategoriak) => {
       this.kategoriak = kategoriak;
     })

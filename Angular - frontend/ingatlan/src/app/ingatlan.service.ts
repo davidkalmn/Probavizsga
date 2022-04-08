@@ -21,13 +21,13 @@ export class IngatlanService {
 
   insertIngatlan(ingatlan:ingatlanModel) {
     var seged = {
-      "kategoriaId": ingatlan.kategoriaId,
+      "kategoriaId": Number(ingatlan.kategoriaId),
       "leiras": ingatlan.leiras,
       "hirdetesDatuma": ingatlan.hirdetesDatuma,
       "tehermentes": ingatlan.tehermentes,
       "kepUrl": ingatlan.kepUrl,
     }
 
-    this.http.post("https://localhost:5000/api/ujingatlan", seged).subscribe();
+    this.http.post("http://localhost:5000/api/ujingatlan", seged).subscribe();
   }
 }
