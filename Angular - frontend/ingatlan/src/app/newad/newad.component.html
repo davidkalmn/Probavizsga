@@ -32,8 +32,8 @@
                 <button class="btn btn-primary px-5" (click)="submit()">Küldés</button>
             </div>
 
-            <div class="alert alert-danger alert-dismissible" role="alert">
-                <strong>Hiba szövege</strong>
+            <div *ngIf="error.length > 0" class="alert alert-danger alert-dismissible" role="alert">
+                <strong>{{error}}</strong>
                 <button type="button" class="btn-close"></button>
             </div>
 

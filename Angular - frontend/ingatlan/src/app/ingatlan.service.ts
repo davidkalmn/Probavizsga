@@ -19,15 +19,15 @@ export class IngatlanService {
     return this.http.get<kategoriaModel[]>("http://localhost:5000/api/kategoriak");
   }
 
-  insertIngatlan(ingatlan:ingatlanModel) {
+  insertIngatlan(ingatlan:ingatlanModel):Observable<any> {
     var seged = {
       "kategoriaId": Number(ingatlan.kategoriaId),
       "leiras": ingatlan.leiras,
       "hirdetesDatuma": ingatlan.hirdetesDatuma,
       "tehermentes": ingatlan.tehermentes,
-      "kepUrl": ingatlan.kepUrl,
-    }
+      "kepUrl": ingatlan.kepUrl
+    };
 
-    this.http.post("http://localhost:5000/api/ujingatlan", seged).subscribe();
+    return this.http.post("http://localhost:5000/api/ujingatlan", seged);
   }
 }
