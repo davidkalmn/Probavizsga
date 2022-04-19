@@ -1,0 +1,61 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Backend teszt",
+    "dateExported": "2022-04-19T19:19:17.945Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "b77c87d5-c9fb-461b-9222-ac37a9642640",
+            "colId": "405e550e-9a49-4a04-8f9f-91707ae0bc26",
+            "containerId": "",
+            "name": "GET",
+            "url": "http://127.0.0.1:8000/api/danube/bridges/description/desc",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2022-04-19T18:41:39.879Z",
+            "modified": "2022-04-19T18:41:42.485Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "c769af1e-f006-4cf2-a053-33d5cd3fe5cd",
+            "colId": "405e550e-9a49-4a04-8f9f-91707ae0bc26",
+            "containerId": "",
+            "name": "POST",
+            "url": "http://127.0.0.1:8000/api/danube/bridges",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2022-04-19T18:44:08.405Z",
+            "modified": "2022-04-19T18:59:13.739Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n    \"bridgeName\" : \"anyaa\",\n    \"description\" : \"anya\",\n    \"isPublicRoad\" : false,\n    \"flowKm\" : 69669.20,\n    \"routes\" : \"anyahaza\",\n    \"location\" : 1,\n    \"deliveryDate\" : \"2020-06-26\",\n    \"pictureUrl\" : \"asd.png\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "effd9156-09d4-44da-a894-2448b5f0ecb6",
+            "colId": "405e550e-9a49-4a04-8f9f-91707ae0bc26",
+            "containerId": "",
+            "name": "PATCH",
+            "url": "http://127.0.0.1:8000/api/danube/bridges/10",
+            "method": "PATCH",
+            "sortNum": 30000,
+            "created": "2022-04-19T19:10:16.913Z",
+            "modified": "2022-04-19T19:16:43.348Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n    \"bridgeName\" : \"anyaa\"\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}

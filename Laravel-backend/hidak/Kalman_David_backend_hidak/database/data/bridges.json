@@ -1,0 +1,167 @@
+[
+    {
+        "_id": 1,
+        "bridgeName": "Megyeri híd",
+        "description": "A Megyeri híd (nem hivatalosan az M0-s északi Duna-hídja) közúti híd a Duna felett, mely Újpestet köti össze Budakalásszal a Szentendrei-szigeten keresztül. A híd a magyar fővárost elkerülő M0-s autóút 2. számú főút és 11. számú főút közti szakaszának része, mely áthalad a Szentendrei-sziget és a Szentendrei-Duna felett is. A híd valójában 5 híd (9 hídszerkezet) együttese, melyek közül a legnevezetesebb a Nagy-Duna-ág felett átívelő 591 m hosszú hídszerkezet, amely az ország első igazi ferdekábeles hídja.",
+        "isPublicRoad": true,
+        "flowKm": 1659.8,
+        "routes": "M0-s autóút észak",
+        "location": 3,
+        "deliveryDate": "2008-09-30",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/01.jpg"
+    },
+    {
+        "_id": 2,
+        "bridgeName": "Újpesti vasúti híd",
+        "description": "Az Újpesti vasúti híd (nem hivatalos nevén Északi összekötő vasúti híd) Budapest egyik vasúti Duna-hídja, amely a Népsziget felett is átvezet. A Budapest-Esztergom-vasútvonal forgalma mellett a gyalogos és a kerékpáros közlekedést is szolgálja.",
+        "isPublicRoad": false,
+        "flowKm": 1654.7,
+        "routes": "Budapest-Esztergom-vasútvonal",
+        "location": 2,
+        "deliveryDate": "1896-11-03",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/02.jpg"
+    },
+    {
+        "_id": 3,
+        "bridgeName": "Árpád híd",
+        "description": "Az Árpád híd Budapest egyik közúti Duna-hídja Budapest III. kerülete és Budapest XIII. kerülete között. A Megyeri híd 2008-as átadásáig a főváros leghosszabb hídja és legészakibb közúti hídja volt. Egyik különlegessége, hogy az eredetileg átadott híd bővítését úgy oldották meg, hogy két oldalt 1-1 új hidat építettek mellé, azaz az Árpád híd voltaképp három párhuzamos, egymással összekapcsolódó hídszerkezetből áll.",
+        "isPublicRoad": true,
+        "flowKm": 1651.4,
+        "routes": "Róbert Károly körút - Vörösvári út/Szentendrei út",
+        "location": 2,
+        "deliveryDate": "1950-11-07",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/03.jpg"
+    },
+    {
+        "_id": 4,
+        "bridgeName": "Margit híd",
+        "description": "A budapesti Margit híd a Szent István körutat és a Margit körutat köti össze a Margit-sziget érintésével. A főváros második állandó hídjaként 1872 és 1876 között épült, 1876. április 30-án avatták fel. Tervpályázatát 1871-ben írták ki, melyen az első díjat Ernest Goüin francia mérnöknek ítélték, és a Societé de Construction de Batignoles nyerte el a szerződést a híd megépítésére.",
+        "isPublicRoad": true,
+        "flowKm": 1648.8,
+        "routes": "Margit körút - Margit-sziget - Szent István körút",
+        "location": 2,
+        "deliveryDate": "1876-04-30",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/04.jpg"
+    },
+    {
+        "_id": 5,
+        "bridgeName": "Széchenyi lánchíd",
+        "description": "A Széchenyi lánchíd (a köznyelvben gyakran csak Lánchíd) a Buda és Pest közötti állandó összeköttetést biztosító legrégibb, legismertebb híd a Dunán, a magyar főváros egyik jelképe, egyben az első állandó híd a teljes magyarországi Duna-szakaszon. Építését gróf Széchenyi István kezdeményezte, és finanszírozását báró Sina György szervezte, a legnagyobb adományt is ő adta a klasszicista stílusban tervezett híd megépítésére.",
+        "isPublicRoad": true,
+        "flowKm": 1647.03,
+        "routes": "Clark Ádám tér - Széchenyi István tér",
+        "location": 2,
+        "deliveryDate": "1849-11-20",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/05.jpg"
+    },
+    {
+        "_id": 6,
+        "bridgeName": "Erzsébet híd (új)",
+        "description": "Az Erzsébet híd Budapest egyik közúti hídja a Dunán, amely az V. kerületet köti össze az I. kerülettel. Az 1903-tól ugyanezen a helyen álló (régi) Erzsébet hidat 1945 januárjában a visszavonuló német csapatok felrobbantották, a helyette épült, 10 méterrel szélesebb kábelhidat 1964-ben adták át.",
+        "isPublicRoad": true,
+        "flowKm": 1646.04,
+        "routes": "Hegyalja út - Rákóczi út",
+        "location": 2,
+        "deliveryDate": "1964-11-21",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/06.jpg"
+    },
+    {
+        "_id": 7,
+        "bridgeName": "Szabadság híd",
+        "description": "A Szabadság híd (korábban Ferenc József híd, Fővám téri híd) Budapest egyik, 1896-ban, a főváros harmadik közúti átkelőjeként átadott hídja, Budapest központjának legrövidebb hídja. Két végén két közterület található, a Gellért tér (a Gellért-hegy lábánál, a Gellért Gyógyfürdővel és a Hotel Gellérttel) és a Fővám tér (a Központi Vásárcsarnokkal). A híd eredetileg a millenniumi világkiállítás részeként épült, a 19. század végén, szecessziós stílusban, mely mitológiai szobrokkal és az ország címerével lett díszítve. A Szabadság hidat építették újjá legelőszőr, miután a második világháború alatt súlyos károkat szenvedett.",
+        "isPublicRoad": true,
+        "flowKm": 1645.29,
+        "routes": "Vámház körút - Bartók Béla út",
+        "location": 2,
+        "deliveryDate": "1896-10-04",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/07.jpg"
+    },
+    {
+        "_id": 8,
+        "bridgeName": "Petőfi híd",
+        "description": "A Petőfi híd (1937-től 1945-ig: Horthy Miklós híd) Budapest egyik Duna-hídja. 1933–37 között építették, a pesti és budai körút déli szakaszainak villamos- és gépjárműforgalmát vezeti át a Duna felett. Hossza 378 m, feljárókkal együtt 514 m. Szélessége 25,6 m. A híd pesti oldalán a Boráros tér (a Nagykörút déli végével, a H7-es HÉV végállomása), illetve a budai hídfőnél a Goldmann György tér.",
+        "isPublicRoad": true,
+        "flowKm": 1644.305,
+        "routes": "Irinyi út - Ferenc körút",
+        "location": 2,
+        "deliveryDate": "1937-09-12",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/08.jpg"
+    },
+    {
+        "_id": 9,
+        "bridgeName": "Rákóczi híd",
+        "description": "A Rákóczi híd Budapest második legújabb Duna-hídja, Lágymányos és Ferencváros között. Közvetlenül az Összekötő vasúti híd mellett, attól északi irányban található, a Duna 1643,1 folyamkilométerénél. Eredetileg (1995 és 2011 között) a Lágymányosi híd nevet viselte.",
+        "isPublicRoad": true,
+        "flowKm": 1643.12,
+        "routes": "Szerémi út - Könyves Kálmán körút",
+        "location": 2,
+        "deliveryDate": "1995-10-01",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/09.jpg"
+    },
+    {
+        "_id": 10,
+        "bridgeName": "Összekötő vasúti híd",
+        "description": "Az Összekötő vasúti híd (a köznyelvben sokszor még: Déli összekötő vasúti híd) Budapest egyik vasúti Duna-hídja. Magyarország legfontosabb és legforgalmasabb vasúti összeköttetése a Dunán, amelyen az ország áthaladó vasúti forgalmának túlnyomó része folyik. A híd közvetlenül a Rákóczi híd mellett, annak déli oldalán található.",
+        "isPublicRoad": false,
+        "flowKm": 1643.085,
+        "routes": "Budapest-Hegyeshalom-Rajka-vasútvonal",
+        "location": 2,
+        "deliveryDate": "1877-10-23",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/10.jpg"
+    },
+    {
+        "_id": 11,
+        "bridgeName": "Deák Ferenc híd",
+        "description": "A Deák Ferenc híd (nem hivatalosan az M0-s autóút déli Duna-hídja, de nevezik Hárosi Duna-hídnak is) Budapest legdélibb Duna-hídja, az E60, E71, E75 nemzetközi főútvonalak része. Névadója Deák Ferenc politikus.",
+        "isPublicRoad": true,
+        "flowKm": 1632.855,
+        "routes": "M0-s autóút dél",
+        "location": 4,
+        "deliveryDate": "1990-11-16",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/11.jpg"
+    },
+    {
+        "_id": 12,
+        "bridgeName": "Pentele híd",
+        "description": "A Pentele híd a Duna fölött átívelve Kisapostagot köti össze Dunavecsével, egyúttal a Dunántúlt az Alfölddel, illetve a 6-os számú főutat az 51-es számú főúttal. Ismert még Dunaújvárosi híd és M8 Duna-híd néven is. A hídra az említett két település közigazgatási területéről lehet fel-, illetve lehajtani. Dunaújváros közigazgatási területén mintegy 600 méter hosszan csupán áthalad.",
+        "isPublicRoad": true,
+        "flowKm": 1571.655,
+        "routes": "M8-as autópálya",
+        "location": 6,
+        "deliveryDate": "2007-07-23",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/12.jpg"
+    },
+    {
+        "_id": 13,
+        "bridgeName": "Beszédes József híd",
+        "description": "A Beszédes József híd Dunaföldvárnál köti össze a Dunántúlt az Alfölddel. A köznyelv hívja még dunaföldvári vagy egyszerűen földvári hídnak is. A hídnyílás magassága 8,85 méter, a hajózható hídnyílás szélessége 74 méter.",
+        "isPublicRoad": true,
+        "flowKm": 1560.56,
+        "routes": "52-es főút",
+        "location": 5,
+        "deliveryDate": "1930-11-23",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/13.jpg"
+    },
+    {
+        "_id": 14,
+        "bridgeName": "Szent László híd",
+        "description": "A Szent László híd Szekszárdtól északra köti össze a Dunántúlt az Alfölddel. A köznyelv hívja még szekszárdi hídnak is. A hídnyílás magassága 9,5 méter, a hajózható hídnyílás szélessége 100 méter. Két ártéri hídból és egy 80 m+3x120 m+80 m nyílásközű, 520,5 m hosszú mederhídból áll. Az ártéri hidak támaszközei 3x65,5 m-esek.",
+        "isPublicRoad": true,
+        "flowKm": 1498.79,
+        "routes": "M9-es autóút",
+        "location": 7,
+        "deliveryDate": "2003-07-04",
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/14.jpg"
+    },
+    {
+        "_id": 15,
+        "bridgeName": "Türr István híd",
+        "description": "A bajai Türr István híd Bajánál biztosít közúti és vasúti kapcsolatot a Dunántúl és a Duna-Tisza-köze között. A legdélebbi magyarországi Duna-híd. Gyakran csak „bajai hídnak” nevezik. 1921. november 1-jén a híd bal parti hídfőjénél szállt hajóra, és ment végleg száműzetésbe az utolsó magyar király, IV. Károly.",
+        "isPublicRoad": true,
+        "flowKm": 1480.19,
+        "routes": "55-ös főút és Bátaszék-Baja-Kiskunhalas-vasútvonal",
+        "location": 1,
+        "deliveryDate": 1908,
+        "pictureUrl": "http://elit.jedlik.eu/nits/bridges/15.jpg"
+    }
+]
