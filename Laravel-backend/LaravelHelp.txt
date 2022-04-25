@@ -20,6 +20,7 @@
 3.1 Táblák feltöltése fixen és json ből
     /database/seeder/ tábla feltöltése adatokkal
         fix tábla feltöltése fix adatokkal
+	php artisan db:seed
 4. Táblák közti kapcsolat befejezése
     public function hasmany és belongsto a modellekben
 5. Kontroller megcsinálása
