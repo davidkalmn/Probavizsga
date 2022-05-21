@@ -1,0 +1,42 @@
+1. bootstrap
+	-package.json -> "dependences" ->bootstrap+verzio
+	-angular.json -> "styles" ->"node_modules/bootstrap/dist/css/bootstrap.min.css
+	-angular.json -> "scripts" ->"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js
+2. openpage
+	-ng g c Home
+	-források bemásolása
+	-app.component -> <router-outlet>
+	-app-routing -> path
+3. offers 
+	-angular material -> ng add @angular/material
+	-table -> api -> import !!! -> app.module.ts 
+	-HttpClient + FormsModule mondule import 
+	-ng g c offers
+	-material -> examples 
+	-tabla oszlopok + dataSource: any[] = []
+	-kep forrasa [src]="element.kepurl
+	-path hozzadasa
+	-routerLink="offers"
+	-private http: HttpClient
+	-this.http.get<any[]>('').subscribe=({ next: (data: any[]) this.DataSource = data }) -> +error kezeles
+	- *ngIf="element.tehermentes"
+
+4.newad
+	-ng g c newad
+	-path
+	-routerlink
+	-forrásból html
+	-new-ad.component.ts ->tipusok: any[] = [] 
+	-private http: HttpClient
+	-get kérés ctrl c 
+	-url átírás
+	-errormessage = ''
+	-this.errorMessage = err.message
+	-*ngif="errorMessage"
+	-option *ngFor="let t of tipusok" [value]="t.id" {{t.megnevezés}}
+	-model = { post bodyja }
+	-[(ngModel)]='model.kategoriaId || name mezo fontos !!!
+	-(click)="kuldes"
+	-private router: Router
+	-kuldes() -> this.http.post<any>('URL', this.model).subscribe({ next: () => this.router.navigate(['offers']) error: (err) => this.errorMessage = err.message })
+	-this.model.kategoriaId ->number
