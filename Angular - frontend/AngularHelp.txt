@@ -1,7 +1,7 @@
 1. bootstrap
 	-package.json -> "dependences" ->bootstrap+verzio
-	-angular.json -> "styles" ->"node_modules/bootstrap/dist/css/bootstrap.min.css
-	-angular.json -> "scripts" ->"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js
+	-angular.json -> "styles" ->"node_modules/bootstrap/dist/css/bootstrap.min.css"
+	-angular.json -> "scripts" ->"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
 2. openpage
 	-ng g c Home
 	-források bemásolása
